@@ -4,7 +4,7 @@
 
 ## How to use?
 
-Add `https://raw.githubusercontent.com/KaioHSG/youtube-anti-block/main/youtube-anti-block.text` as a filter in any ad block.
+Add `https://raw.githubusercontent.com/KaioHSG/youtube-anti-block/main/youtube-anti-block.text` as a filter in any ad blocker.
 
 Or, download and import the `youtube-anti-block.text` file.
 
