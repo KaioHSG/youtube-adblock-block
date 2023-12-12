@@ -1,6 +1,6 @@
 # YouTube Anti-Block
 
-*Unblock your ad blocker.*
+*Unblock your YouTube ad blocker.*
 
 ## How to use?
 
