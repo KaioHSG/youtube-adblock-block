@@ -6,7 +6,7 @@
 
 Add `https://raw.githubusercontent.com/KaioHSG/youtube-anti-block/main/youtube-anti-block.text` as a filter in any ad block.
 
-Or, import the `youtube-anti-block.text` file.
+Or, download and import the `youtube-anti-block.text` file.
 
 ## Note
 
