@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/badge/version-1-green)](https://raw.githubusercontent.com/KaioHSG/youtube-anti-block/main/youtube-anti-block.text)
+
 # YouTube Anti-Block
 
 *Unblock your YouTube ad blocker.*
