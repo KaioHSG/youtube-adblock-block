@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: YouTube Anti-Block
 ! Version: 1
-! Homepage: https://github.com/KaioHSG/youtube-anti-block/
+! Homepage: https://github.com/KaioHSG/youtube-anti-block
 youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
