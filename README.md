@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/version-1-green)](https://raw.githubusercontent.com/KaioHSG/youtube-anti-block/main/youtube-anti-block.text)
+[![Version](https://img.shields.io/badge/version-1-green)](https://github.com/KaioHSG/youtube-anti-block/raw/main/youtube-anti-block.js)
 
 # YouTube Anti-Block
 
@@ -6,9 +6,9 @@
 
 ## How to use?
 
-Add `https://raw.githubusercontent.com/KaioHSG/youtube-anti-block/main/youtube-anti-block.text` as a filter in any ad blocker.
+Add `https://github.com/KaioHSG/youtube-anti-block/raw/main/youtube-anti-block.js` as a filter in any ad blocker.
 
-Or, download and import the `youtube-anti-block.text` file.
+Or, download and import the [`youtube-anti-block.js`](https://github.com/KaioHSG/youtube-anti-block/blob/main/youtube-anti-block.js) file.
 
 ## Note
 
