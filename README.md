@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/version-1.0-green)](https://github.com/KaioHSG/youtube-anti-block/raw/main/youtube-anti-block.js)
+[![Version](https://img.shields.io/badge/version-1.0-green)](https://github.com/KaioHSG/youtube-anti-block/raw/main/youtube-anti-block.txt)
 
 # YouTube Anti-Block
 
