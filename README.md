@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/v/release/KaioHSG/youtube-anti-block)](https://github.com/KaioHSG/youtube-anti-block/releases/latest)
+[![Tag](https://img.shields.io/github/v/tag/KaioHSG/youtube-anti-block)](https://github.com/KaioHSG/youtube-anti-block/tags)
 
 # YouTube Anti-Block
 
