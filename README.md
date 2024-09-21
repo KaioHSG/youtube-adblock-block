@@ -1,5 +1,5 @@
 [![Tag](https://img.shields.io/github/v/tag/KaioHSG/youtube-anti-block)](https://github.com/KaioHSG/youtube-anti-block/tags)
-[![VirusTotal](https://img.shields.io/badge/virus%20total-status-navy)](https://www.virustotal.com/gui/url/7d57170978b26dd1e5a60345e57a3714060902e897286debbced65499c8e77ee)
+[![VirusTotal](https://img.shields.io/badge/virus_total-status-navy)](https://www.virustotal.com/gui/url/7d57170978b26dd1e5a60345e57a3714060902e897286debbced65499c8e77ee)
 
 
 # YouTube Anti-Block
